@@ -48,10 +48,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashujohri&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashujohri&layout=compact&hide_border=true)
+## 📈 Experience Snapshot
+- 6+ years professional experience (startup → enterprise)
+- 10+ production apps shipped
+- React.js / Next.js / TypeScript — primary stack (4+ years)
+- Node.js backend — APIs, pagination, server optimization
+- Currently exploring: Python, AI/LLM integrations
 
 ---
 
